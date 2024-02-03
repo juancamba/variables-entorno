@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "variables_entorno": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "ApiAmazon__password": "xxx"
+      }
+    }
+  }
+}
