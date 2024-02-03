@@ -2,6 +2,8 @@ En este proyecto vemos ejemplos de
 * Variables de entorno mapaeadas al Iconfiguration
 * Mapear subsecciones de appsettings.json a una clase por DI
 
+[Microsoft Configuration](https://learn.microsoft.com/es-es/aspnet/core/fundamentals/configuration/?view=aspnetcore-8.0)
+
 # Variables de entorno mapaeadas al Iconfiguration. 
 
 .Net core mapea las variables de entorno y se recuperan como si fueran variables en el archivo de configuracion appsettings.json. Para ello usa la notacion especial de dos guiones bajos para separar clave valor. Si tenemos 
